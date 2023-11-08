@@ -1,0 +1,27 @@
+.section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.error {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+/* .wrapper {} */
+
+.title {
+    margin-bottom: 50px;
+    text-align: center;
+}
+/* 
+.spiner_box {
+}
+
+.spiner {   
+} */
